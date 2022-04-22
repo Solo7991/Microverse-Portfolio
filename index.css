@@ -4,7 +4,7 @@
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
-  color: #172B4D;
+  color: #172b4d;
   margin: 0 0 12px 0;
 }
 
@@ -17,8 +17,6 @@
   color: #344563;
   margin: 0;
 }
-
-.headline { top: 162px; }
 
 .wrap {
   width: 327px;
@@ -35,7 +33,7 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 20px;
-  color: #6070FF;
+  color: #6070ff;
 }
 
 header {
@@ -65,7 +63,7 @@ header {
 
 .x3 {
   position: absolute;
-  width: 15px; 
+  width: 15px;
   height: 15px;
   left: 214px;
   top: 18px;
@@ -85,7 +83,7 @@ header {
   height: 4.73px;
   left: 127.18px;
   top: 59.59px;
-} 
+}
 
 .x6 {
   position: absolute;
@@ -117,7 +115,7 @@ header {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: #7F8CFF;
+  color: #7f8cff;
   padding-top: 1em;
 }
 
@@ -145,4 +143,5 @@ header {
 .headline {
   position: relative;
   top: 114px;
+  top: 162px;
 }
