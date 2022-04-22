@@ -19,3 +19,12 @@
 }
 
 .headline { top: 162px; }
+
+.wrap {
+  width: 327px;
+  margin: 0 auto;
+}
+
+.header {
+  height: 48px;
+}
