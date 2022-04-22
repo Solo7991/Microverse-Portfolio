@@ -1,0 +1,154 @@
+.headline h1 {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #172b4d;
+  margin: 0 0 12px 0;
+}
+
+.headline p {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  margin: 0;
+}
+
+.wrap {
+  width: 327px;
+  margin: 0 auto;
+}
+
+.header {
+  height: 48px;
+}
+
+.logo {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6070ff;
+}
+
+header {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.relative {
+  position: relative;
+}
+
+.x1 {
+  position: absolute;
+  width: 105px;
+  height: 105px;
+  left: 323px;
+  top: 60.24px;
+}
+
+.x2 {
+  position: absolute;
+  width: 95.58px;
+  height: 22.02px;
+  left: 294px;
+  top: 25.79px;
+}
+
+.x3 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  left: 214px;
+  top: 18px;
+}
+
+.x4 {
+  position: absolute;
+  width: 38.5px;
+  height: 19.25px;
+  left: 16.04px;
+  top: 69.47px;
+}
+
+.x5 {
+  position: absolute;
+  width: 26.46px;
+  height: 4.73px;
+  left: 127.18px;
+  top: 59.59px;
+}
+
+.x6 {
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  left: 132.98px;
+  top: 67.81px;
+}
+
+.x7 {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  left: 274px;
+  top: 108px;
+}
+
+.x8 {
+  position: absolute;
+  width: 68.06px;
+  height: 12.18px;
+  left: 167.82px;
+  top: 20px;
+}
+
+.con {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+  padding-top: 1em;
+}
+
+.flex {
+  display: flex;
+}
+
+.icon {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  justify-content: flex-start;
+}
+
+.icon li {
+  margin-right: 20px;
+}
+
+.headline > * {
+  margin-bottom: 12px;
+}
+
+.container {
+  width: 375px;
+  margin: 0 auto;
+}
+
+.pattern {
+  width: 100%;
+}
+
+.headline {
+  position: relative;
+  top: 114px;
+  top: 162px;
+}
