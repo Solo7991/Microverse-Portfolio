@@ -28,3 +28,21 @@
 .header {
   height: 48px;
 }
+
+.logo {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6070FF;
+}
+
+header {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.relative {
+  position: relative;
+}
