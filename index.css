@@ -46,3 +46,67 @@ header {
 .relative {
   position: relative;
 }
+
+.x1 {
+  position: absolute;
+  width: 105px;
+  height: 105px;
+  left: 323px;
+  top: 60.24px;
+}
+
+.x2 {
+  position: absolute;
+  width: 95.58px;
+  height: 22.02px;
+  left: 294px;
+  top: 25.79px;
+}
+
+.x3 {
+  position: absolute;
+  width: 15px; 
+  height: 15px;
+  left: 214px;
+  top: 18px;
+}
+
+.x4 {
+  position: absolute;
+  width: 38.5px;
+  height: 19.25px;
+  left: 16.04px;
+  top: 69.47px;
+}
+
+.x5 {
+  position: absolute;
+  width: 26.46px;
+  height: 4.73px;
+  left: 127.18px;
+  top: 59.59px;
+} 
+
+.x6 {
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  left: 132.98px;
+  top: 67.81px;
+}
+
+.x7 {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  left: 274px;
+  top: 108px;
+}
+
+.x8 {
+  position: absolute;
+  width: 68.06px;
+  height: 12.18px;
+  left: 167.82px;
+  top: 20px;
+}
